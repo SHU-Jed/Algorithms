@@ -1,0 +1,1 @@
+回环变位问题。  主要用到indexOf(),length(),subString();
